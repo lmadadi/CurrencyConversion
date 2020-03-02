@@ -1,0 +1,175 @@
+[
+   {
+      "currencyDesc":"2 Thousands",
+      "currencyCode":"INR",
+      "amountValue":2000,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"5 Hundereds",
+      "currencyCode":"INR",
+      "amountValue":500,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"2 Hundereds",
+      "currencyCode":"INR",
+      "amountValue":200,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"1 Hundered",
+      "currencyCode":"INR",
+      "amountValue":100,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"50 Rupees",
+      "currencyCode":"INR",
+      "amountValue":50,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"20 Rupees",
+      "currencyCode":"INR",
+      "amountValue":20,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"10 Rupees",
+      "currencyCode":"INR",
+      "amountValue":10,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"5 Rupees",
+      "currencyCode":"INR",
+      "amountValue":5,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"2 Rupees",
+      "currencyCode":"INR",
+      "amountValue":2,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"1 Rupee",
+      "currencyCode":"INR",
+      "amountValue":1,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"50 Paise",
+      "currencyCode":"INR",
+      "amountValue":0.50,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"25 Paise",
+      "currencyCode":"INR",
+      "amountValue":0.25,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"10 Paise",
+      "currencyCode":"INR",
+      "amountValue":0.10,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"1 Paise",
+      "currencyCode":"INR",
+      "amountValue":0.01,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"100 Dollars",
+      "currencyCode":"USD",
+      "amountValue":100,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"25 Dollars",
+      "currencyCode":"USD",
+      "amountValue":25,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"10 Dollars",
+      "currencyCode":"USD",
+      "amountValue":10,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"5 Dollars",
+      "currencyCode":"USD",
+      "amountValue":5,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"1 Dollar",
+      "currencyCode":"USD",
+      "amountValue":1,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"Quarters",
+      "currencyCode":"USD",
+      "amountValue":0.25,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"Dimes",
+      "currencyCode":"USD",
+      "amountValue":0.10,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"Nickel",
+      "currencyCode":"USD",
+      "amountValue":0.05,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"Penny",
+      "currencyCode":"USD",
+      "amountValue":0.01,
+      "convertionRate":100
+   },
+   {
+      "currencyDesc":"2 Euro Cent",
+      "currencyCode":"EUR",
+      "amountValue":200
+   },
+   {
+      "currencyDesc":"1 Euro Cent",
+      "currencyCode":"EUR",
+      "amountValue":100
+   },
+   {
+      "currencyDesc":"50 Cent",
+      "currencyCode":"EUR",
+      "amountValue":50
+   },
+   {
+      "currencyDesc":"20 Cent",
+      "currencyCode":"EUR",
+      "amountValue":20
+   },
+   {
+      "currencyDesc":"10 Cent",
+      "currencyCode":"EUR",
+      "amountValue":10
+   },
+   {
+      "currencyDesc":"5 Cent",
+      "currencyCode":"EUR",
+      "amountValue":5
+   },
+   {
+      "currencyDesc":"1 Cent",
+      "currencyCode":"EUR",
+      "amountValue":1
+   }
+]
